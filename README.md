@@ -11,11 +11,15 @@ This one page example uses the following patterns:
 - Some CSS customization: navigation bar, hero section and body have their own background color
 - Google Fonts: https://fonts.google.com/specimen/Raleway
 
-Please check the comments in <index.html> and <css/styles.css>
+### See it at work!
 
-### See it live
+The project is published at <https://buas-media-interactive.github.io/prj4-group-template>
 
-The project is published at <https://agm-online.github.io/prj4-group-template>
+### Create your own group website
+
+Click on [Use this template](https://github.com/buas-media-interactive/prj4-group-template/generate) to create a new repository for your group website.
+
+Please check the comments in [index.html](https://github.com/buas-media-interactive/prj4-group-template/blob/main/index.html) and [css/styles.css](https://github.com/buas-media-interactive/prj4-group-template/blob/css/styles.css) as well as the [Bootstrap 5.1 Documentation](https://getbootstrap.com/docs/5.1/) for help with customizing the template.
 
 ### Image credits
 
