@@ -9,7 +9,7 @@ This one page example uses the following patterns:
 - A grid with cards and placeholder images
 - A footer
 - Some CSS customization: navigation bar, hero section and body have their own background color
-- Google Fonts: https://fonts.google.com/specimen/Raleway
+- Google Fonts: <https://fonts.google.com/specimen/Raleway>
 
 ### See it at work!
 
@@ -23,6 +23,6 @@ Please check the comments in [index.html](https://github.com/buas-media-interact
 
 ### Image credits
 
-Social media icons: FontAwesome - https://fontawesome.com/ - Licensed under Creative Commons Attribution 4.0 (CC-BY-4.0)
+Social media icons: FontAwesome - <https://fontawesome.com/> - Licensed under Creative Commons Attribution 4.0 (CC-BY-4.0)
 
-Photos of the campus were taken by Raphaël Velt © Breda University of Applied Sciences
+Photos of the campus were taken by Raphaël Velt © [Breda University of Applied Sciences](https://www.buas.nl/)
