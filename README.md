@@ -21,6 +21,10 @@ Click on [Use this template](https://github.com/buas-media-interactive/prj4-grou
 
 Please check the comments in [index.html](https://github.com/buas-media-interactive/prj4-group-template/blob/main/index.html) and [css/styles.css](https://github.com/buas-media-interactive/prj4-group-template/blob/css/styles.css) as well as the [Bootstrap 5.1 Documentation](https://getbootstrap.com/docs/5.1/) for help with customizing the template.
 
+### Check the requirements before handing in
+
+Please double-check the requirements in the course's [Brightspace environment](https://study.buas.nl/d2l/home/25973) and/or in the [Production guide](https://buas-media-interactive.github.io/prj4-guide/checklist-group.html)
+
 ### Image credits
 
 Social media icons: FontAwesome - <https://fontawesome.com/> - Licensed under Creative Commons Attribution 4.0 (CC-BY-4.0)
